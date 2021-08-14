@@ -2,17 +2,7 @@
 
 Turma Online 12 | Back-end | 2021 | Semana 14: Projeto Guiado - CRUD com BD
 Dontpad da aula: http://dontpad.com/projeto-db
-## Tô de volta, turminha amada! <3
 
-- Chamada, apresentação das monitoras e acordos:
-
-<img src="https://i.pinimg.com/474x/b4/17/86/b41786b5e7627ed0c678a0ef4a62e9f6.jpg" alt="video chamada" width="200">
-
-* Usar as reações do zoom e levantar a mão para sinalizar que gostaria de falar
-* Enviar as dúvidas no chat
-* Manter microfone desligado quando outras pessoas estiverem falando
-* Manter câmera ligada o máximo possível
-* Momento mão no código, momento de olho na tela
 
 <br>
 <br>
@@ -303,12 +293,3 @@ Crie seu repositório contendo:
  - um readme com os maiores aprendizados nesse projeto e copiando todas as informações sobre o projeto
  - cumprimento total do contrato (requisitos e regras de negócios) 
  - realizar testes no Postman e verificar se os dados estão persistindo com o mongoDB (ROBO 3T)
-
-Subir o repositório no classroom.
-
-## Simara Conceição
-- [instagram](https://www.instagram.com/simara_conceicao)
-- [linkedin](https://www.linkedin.com/in/simaraconceicao/)
-- [github](https://github.com/simaraconceicao)
-- [spotify](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
-- [quero ser dev](https://queroserdev.com)
